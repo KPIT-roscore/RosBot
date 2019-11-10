@@ -1,4 +1,5 @@
-# RosBot
+# RosBot 
+< img src="images/index.jpeg">
 Learning and Fun with ROS Towards Autonomous Driving @ KPIT
 
 ## Build Status
