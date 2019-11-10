@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+  <include file="$(find kbot_gazebo)/launch/kbot_world.launch"/>
+  
+  <include file="$(find kbot_navigation)/launch/amcl_demo.launch"/>
+  
+  <include file="$(find kbot_description)/launch/kbot_rviz_gmapping.launch"/>
+
+</launch>
