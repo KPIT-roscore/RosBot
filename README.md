@@ -6,26 +6,12 @@ Learning and Fun with ROS Towards Autonomous Driving @ KPIT
 
 [![Build Status](https://travis-ci.org/KPIT-roscore/RosBot.svg?branch=master)](https://travis-ci.org/KPIT-roscore/RosBot) 
 
-## Prerequisites
-
-## Dependencies
-
 ## System Requirements
-
-## Installing
-
-## Running
-
-## Issues 
-
-## License
-
-## Acknowledgements
 
 # Implementation of SLAM Algorithms in Simulation 
 
 ## Quick Start
-This is a quick start guide for beginners intrested in running our project in your system
+This is a quick start guide for beginners intrested in running this project in your system
 This Repo contains launch files for Gmapping, Hector Map and Rtab Map SLAM Algorithms.
 It also includes launch files for Gazebo simulations.
 
@@ -264,3 +250,9 @@ In Terminal 3, launch rviz
 ```
 roslaunch rosbot_description rosbot_rviz_amcl.launch
 ```
+
+## Issues 
+
+## License
+
+## Acknowledgements
